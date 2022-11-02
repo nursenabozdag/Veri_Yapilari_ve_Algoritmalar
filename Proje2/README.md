@@ -3,8 +3,7 @@
 
 Bootcamp Hızlandırma Programı eğitimi kapsamında Veri Yapıları ve Algoritma modülünün proje kısmında bulunan ikinci projedir.
 
-Bu proje bir Merge Sort P
-projesidir.
+Bu proje bir Merge Sort projesidir.
 
 Bizden istenilen aşağıda bulunan dizinin;
 
