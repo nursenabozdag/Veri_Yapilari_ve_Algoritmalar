@@ -19,7 +19,7 @@ Proje içindeki dizimiz [7,5,1,8,3,6,0,9,4,2]
 
 
 
-#### Binaary Search Tree Aşamaları
+#### Binary Search Tree Aşamaları
 
 
 Dizinin en başında ki değer 7 olduğu için bizim dizinin root değeri 7 dir.

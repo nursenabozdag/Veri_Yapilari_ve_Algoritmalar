@@ -5,7 +5,7 @@ Bootcamp Hızlandırma Programı eğitimi kapsamında Veri Yapıları ve Algorit
 
 Bu proje bir Binary Search Tree Projesidir.
 
-Bu projeden bizden istenilen:
+Bu projede bizden istenilen:
 
 
 [7,5,1,8,3,6,0,9,4,2] dizisinin Binary-Search-Tree aşamalarını yazınız.
@@ -16,4 +16,4 @@ Bu projeden bizden istenilen:
 
 [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)
 
-ekiplerlerine çok teşekkür ederim.
+ekiplerlerine teşekkür ederim.

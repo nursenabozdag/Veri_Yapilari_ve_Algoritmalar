@@ -5,17 +5,17 @@ Proje kapsamında 3 adet proje yapılmıştır.
 
 ## [Proje1](https://github.com/nursenabozdag/Veri_Yapilari_ve_Algoritmalar/tree/main/Proje1) 
 
-Proje 1 bir Insertion Sort projesidir. Projenin içerisinde;
+Proje 1,Insertion Sort projesidir. Projenin içerisinde;
 
 - 1 adet Insertion_Sort.md 
 - 1 adet README.md
 - 1 adet insertion_sort.py 
 
-projesi bulunmaktadır.
+projeleri bulunmaktadır.
 
 ## [Proje2](https://github.com/nursenabozdag/Veri_Yapilari_ve_Algoritmalar/tree/main/Proje2)
 
-Proje 2 bir Merge Sort projesidir. Projenin içerisinde;
+Proje 2, Merge Sort projesidir. Projenin içerisinde;
 
 - 1 adet Merge_Sort.md 
 - 1 adet README.md
@@ -25,7 +25,7 @@ projeleri bulunmaktadır.
 
 ## [Proje3]()
 
-Proje E bir Binary Search Tree projesidir. Projenin içerisinde;
+Proje 3, Binary Search Tree projesidir. Projenin içerisinde;
 
 - 1 adet binary-search-tree.md 
 - 1 adet README.md
